@@ -20,4 +20,5 @@ langchain_huggingface
 # vector database
 faiss-cpu
 langchain_chroma
+streamlit
 
