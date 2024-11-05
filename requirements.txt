@@ -1,0 +1,23 @@
+# data ingestion
+langchain
+langchain-community
+pypdf
+b4                                      # beautiful soup
+arxiv                                   # research paper
+pymupdf
+
+# text splitters
+ipynb
+langchain-text-splitters 
+lxml                               # html text splitter
+
+# embedding
+python-dotenv                           # call all environment variables, .env
+langchain-openai
+sentence-transformers
+langchain_huggingface
+
+# vector database
+faiss-cpu
+langchain_chroma
+
